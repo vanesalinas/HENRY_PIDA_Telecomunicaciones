@@ -1,5 +1,5 @@
 # <h1 align=center> **Telecomunicaciones en Argentina** </h1>
-<p align="center"><img src='/src/img/portada.png'></p>
+<p align="center"><img src='/src/img/descarga.jpeg'></p>
 
 ## <p align="center">PROYECTO INDIVIDUAL Nº2<br/>SOY HENRY DATA-PT09</p>
 
@@ -36,11 +36,10 @@ En este repositorio encontrarás los siguientes archivos:
 
 ### Tecnologias utilizadas
 <div>
-  <img src="./src/img/imagen1 - copia.png">
-  <img src="./src/img/imagen2 - copia.png">
-  <img src="./src/img/imagen3 - copia.png">
-  <img src="./src/img/imagen4 - copia.png">
-  <img src="./src/img/imagen5 - copia.png">
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlquQbehFaMuUwUN32KhAS4AxK7WTUtKuZBQ&s width=11%>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7aUXKTQOQ9aOm7BiBYfZN56MIwj7EgLRlkQ&s>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLTxw2beQD1IF8lRC2Vlf7E1QKH6opErAGKA&s width=15%>
+  <img src=https://seeklogo.com/images/S/streamlit-logo-B405F7E2FC-seeklogo.com.png width=20%>
 </div>
 
 ### Objetivo
@@ -59,8 +58,8 @@ En este repositorio encontrarás los siguientes archivos:
    + Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. La fórmula es la siguiente:<br/></p>
          <p align="center">KPI = ((Nuevo aceeso - Acceso actual) / Acceso actual) * 100<br/></p>   
 Donde:<br/>
--	"Nuevo acceso" se refiere al número de hogares con acceso a Internet después del próximo trimestre.
--	"Acceso actual" se refiere al número de hogares con acceso a Internet en el trimestre actual.
++	"Nuevo acceso" se refiere al número de hogares con acceso a Internet después del próximo trimestre.<br/>
++	"Acceso actual" se refiere al número de hogares con acceso a Internet en el trimestre actual.
 
 ### Dashboard ###
 
