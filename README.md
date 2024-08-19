@@ -8,8 +8,14 @@
 +	Contexto.
 +	Tecnologías utilizadas
 +	Objetivo.
++	Introducción.
 +	Análisis exploratorio de los datos (EDA).
++	Evolución del acceso a internet.
++	Velocidades de conexión.
++	Tecnologías.
++	Ingresos del sector.
 +	KPIs.
++	Recomendaciones y conclusiones.
 +	Dashboard.
 
 ### Estructura del repositorio ###
